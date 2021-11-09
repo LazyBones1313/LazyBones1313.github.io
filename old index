@@ -1,0 +1,40 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Best Of Gaming</title>
+  <link rel="icon" href="https://github.com/LazyBones1313/wwr/blob/main/images/logo.png?raw=true">
+</head>
+<body>
+  <header>
+    <style>
+      header {
+        background-color: #2377e1;
+        margin: -10px;
+        height: 150px;
+      }
+      nav {
+        font-family: lato;
+        margin-left: 50%;
+        vertical-align: middle;
+        display:inline;
+        list-style-type: none;
+      }
+    </style>
+    <img style="width: 100px;margin-left: 50%;" src="https://github.com/LazyBones1313/LazyBones1313.github.io/blob/main/images/logo.png?raw=true" alt="Logo image" />
+        <nav>
+            <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="https://lazybones1313.github.io/index.html">Home</a>
+            <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="#">Site Plan</a>
+            <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="#">Contact Us</a>
+        </nav>
+  </header>
+</body>
+</html>

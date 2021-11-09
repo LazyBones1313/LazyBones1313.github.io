@@ -1,25 +1,51 @@
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Best Of Gaming</title>
-  <link rel="icon" href="https://github.com/LazyBones1313/wwr/blob/main/images/logo.png?raw=true">
-</head>
-<body>
-  <style>
-    header {
-      background-color: #2377e1;
-    }
-  </style>
-    <style>
-      body {
-        background-image: url('https://github.com/LazyBones1313/LazyBones1313.github.io/blob/main/images/background.png?raw=true');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-      }
-    </style>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Headers - 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles/reset.min.css" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/header-3.css" />
+  </head>
+  <body>
+    <!-- Header Start -->
+    <header class="site-header">
+      <div class="wrapper site-header__wrapper">
+        <div class="site-header__start">
+          <a href="#" class="brand">Brand</a>
+        </div>
+        <div class="site-header__end">
+          <nav class="nav">
+            <button class="nav__toggle" aria-expanded="false" type="button">
+              menu
+            </button>
+            <ul class="nav__wrapper">
+              <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="https://lazybones1313.github.io/index.html">Home</a>
+            <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="#">Site Plan</a>
+            <a style="margin-left: 50px;margin-right: 50px;padding:10px;background-color: #800000;border-radius: 25%;color: white;" href="#">Contact Us</a>
+            </ul>
+          </nav>
+          <div class="search">
+            <button class="search__toggle" aria-label="Open search">
+              Search
+            </button>
+            <form class="search__form" action="">
+              <label class="sr-only" for="search">Search</label>
+              <input
+                type="search"
+                name=""
+                id="search"
+                placeholder="What's on your mind?"
+              />
+            </form>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- Header End -->
+
+    <script src="js/header-3.js"></script>
+  </body>
 </html>
