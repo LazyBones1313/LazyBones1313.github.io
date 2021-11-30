@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:wf="http://www.volkside.com/2011/wirify" version="1.1" viewBox="0 0 1218 3970" width="1218" height="3970">>
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>lazybones1313.github.io</dc:title>
+		<dc:subject>Original page: https://lazybones1313.github.io/</dc:subject>
+		<dc:description>My wireframe</dc:description>
+		<dc:creator>Taylor Shaw</dc:creator>
+		<dc:date>2021-11-30 17:45:41Z</dc:date>
+	</metadata>
+	<defs>
+		<font-face font-family="Helvetica" font-size="10" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="522.94922" cap-height="717.28516" ascent="770.01953" descent="-229.98047" font-weight="500">
+			<font-face-src>
+				<font-face-name name="Helvetica" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.72656" ascent="770.01953" descent="-229.98047" font-weight="bold">
+			<font-face-src>
+				<font-face-name name="Helvetica-Bold" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Helvetica" font-size="15" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="522.94922" cap-height="717.28516" ascent="770.01953" descent="-229.98045" font-weight="500">
+			<font-face-src>
+				<font-face-name name="Helvetica" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="522.94922" cap-height="717.28516" ascent="770.01953" descent="-229.98047" font-weight="500">
+			<font-face-src>
+				<font-face-name name="Helvetica" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="-750" x-height="522.94922" cap-height="717.28516" ascent="770.01953" descent="-229.98047" font-style="italic" font-weight="500">
+			<font-face-src>
+				<font-face-name name="Helvetica-Oblique" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Helvetica" font-size="24" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.72656" ascent="770.01953" descent="-229.98047" font-weight="bold">
+			<font-face-src>
+				<font-face-name name="Helvetica-Bold" />
+			</font-face-src>
+		</font-face>
+		<font-face font-family="Lucida Grande" font-size="15" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7968" descent="-210.93748" font-weight="500">
+			<font-face-src>
+				<font-face-name name="LucidaGrande" />
+			</font-face-src>
+		</font-face>
+	</defs>
+	<g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+		<title>lazybones1313.github.io - wirify wireframe</title>
+		<pattern id="paragraph" patternUnits="userSpaceOnUse" width="20" height="15">
+			<image overflow="visible" width="20" height="15" xl:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACNJREFUeNpiPHPmDAO5gImBAjCqeWRoZvz///9ogJEAAAIMAEjKBX4VoXbeAAAAAElFTkSuQmCC" />
+		</pattern>		<g transform="translate(55 31)">
+			<title>a</title>
+			<rect x="0" y="0" width="75" height="24" fill="#999999" />
+		</g>
+		<g transform="translate(634 11)">
+			<title>a</title>
+			<rect x="0" y="0" width="43" height="16" fill="#999999" />
+		</g>
+		<g transform="translate(797 11)">
+			<title>a</title>
+			<rect x="0" y="0" width="63" height="16" fill="#999999" />
+		</g>
+		<g transform="translate(980 11)">
+			<title>a</title>
+			<rect x="0" y="0" width="78" height="16" fill="#999999" />
+		</g>
+		<g transform="translate(215 1405)">
+			<title>a</title>
+			<rect x="0" y="0" width="787" height="24" fill="#999999" />
+		</g>
+		<g transform="translate(412 1909)">
+			<title>a</title>
+			<rect x="0" y="0" width="393" height="24" fill="#999999" />
+		</g>
+		<g transform="translate(215 2209)">
+			<title>a</title>
+			<rect x="0" y="0" width="787" height="24" fill="#999999" />
+		</g>
+		<g transform="translate(55 3815)">
+			<title>a</title>
+			<rect x="0" y="0" width="224" height="24" fill="#999999" />
+		</g>
+		<g transform="translate(917 3675)">
+			<title>a</title>
+			<rect x="0" y="0" width="212" height="80" fill="#999999" />
+		</g>
+		<g transform="translate(60 418)">
+			<title>p</title>
+			<rect x="0" y="0" width="1046" height="32" fill="url(#paragraph)" fill-opacity="1" />
+		</g>
+		<g transform="translate(60 2871)">
+			<title>p</title>
+			<rect x="0" y="0" width="1046" height="64" fill="url(#paragraph)" fill-opacity="1" />
+		</g>
+		<g transform="translate(0 3837)">
+			<title>p</title>
+			<rect x="0" y="0" width="1218" height="16" fill="url(#paragraph)" fill-opacity="1" />
+		</g>
+		<g transform="translate(0 3853)">
+			<title>p</title>
+			<rect x="0" y="0" width="1218" height="16" fill="url(#paragraph)" fill-opacity="1" />
+		</g>
+		<g transform="translate(80 0)">
+			<title>img</title>
+			<rect x="0" y="0" width="50" height="50" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="50" y2="50" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="50" x2="50" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(487 86)">
+			<title>img</title>
+			<rect x="0" y="0" width="244" height="243" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="244" y2="243" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="243" x2="244" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(182 345)">
+			<title>img</title>
+			<rect x="0" y="0" width="913" height="58" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="913" y2="58" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="58" x2="913" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(215 1205)">
+			<title>img</title>
+			<rect x="0" y="0" width="787" height="220" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="787" y2="220" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="220" x2="787" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(412 1427)">
+			<title>img</title>
+			<rect x="0" y="0" width="393" height="501" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="393" y2="501" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="501" x2="393" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(215 1931)">
+			<title>img</title>
+			<rect x="0" y="0" width="787" height="297" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="787" y2="297" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="297" x2="787" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(79 3634)">
+			<title>img</title>
+			<rect x="0" y="0" width="200" height="200" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="200" y2="200" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="200" x2="200" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(917 3675)">
+			<title>img</title>
+			<rect x="0" y="0" width="106" height="77" fill="gray" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="0" x2="106" y2="77" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+			<line x1="0" y1="77" x2="106" y2="0" stroke="white" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1.5" />
+		</g>
+		<g transform="translate(55 3594)">
+			<title>h1</title>
+			<rect x="0" y="0" width="240" height="40" fill="#333333" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" strong="#333333" />
+			<clipPath id="rect100">
+				<rect x="0" y="0" width="240" height="40" />
+			</clipPath>
+			<text transform="translate(0 0)" fill="#333333" clip-path="url(#rect100)">
+				<tspan font-family="Helvetica" font-size="40" font-weight="bold" x="0" y="32" style="letter-spacing: -0.02em;">Resources:</tspan>
+			</text>
+		</g>
+	<g transform="translate(768 20)">
+			<title>info</title>
+			<rect x="0" y="0" width="430" height="117" />
+			<path d="M 15 0 L 415 0 C 423.28427 0 430 6.7157288 430 15 L 430 102 C 430 110.28427 423.28427 117 415 117 L 15 117 C 6.7157288 117 0 110.28427 0 102 C 0 102 0 101.99999 0 101.99999 L 0 15 C 0 6.7157288 6.715725 0 14.999996 0 Z" fill="white" fill-opacity=".75" stroke="#545454" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+			<image width="109" height="31" transform="translate(314.5 4.5)" xl:href="data:image/png;base64,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
+0CGw1V8AAAAASUVORK5CYII=" />
+			<text transform="translate(10 8)" fill="black">
+				<tspan font-family="Helvetica" font-size="24" font-weight="bold" x="0" y="23">lazybones1313.github.io</tspan>
+			</text>
+			<text transform="translate(9.5 43.75)" fill="black">
+				<tspan font-family="Helvetica" font-size="16" font-weight="500" x="0" y="15">Wireframe created with Wirify by Volkside on 30 Nov 2021</tspan>
+				<tspan font-family="Helvetica" font-size="16" font-style="italic" font-weight="500" x="0" y="36">&#xA9; 2016 Volkside  &#x2013;  www.wirify.com  &#x2013;  www.volkside.com</tspan>
+			</text>
+			<text transform="translate(103.5 95.334)" fill="#999">
+				<tspan font-family="Helvetica" font-size="10" font-weight="500" fill="#999" x="0" y="10" textLength="316.85059">Page layout and structure are the property of the original website owner</tspan>
+			</text>
+			<text transform="translate(8.5 90.834)" fill="#656565">
+				<tspan font-family="Lucida Grande" font-size="15" font-weight="500" fill="#656565" x="0" y="15" textLength="14.699707">&#x25BC;</tspan>
+				<tspan font-family="Helvetica" font-size="15" font-weight="500" fill="#656565" x="14.699707" y="15" textLength="69.162598"> Wirify Pro</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
